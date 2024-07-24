@@ -8,23 +8,6 @@
     based on various health parameters.</p>
   <p>Dataset for the model is available here https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset</p>
 
--> Entering data
-<br>
-<br>
-<image  width="600px" src="Screenshots/screenshots.png">
-<br>
-
--> When heart disease not found
-<br>
-<br>
-<image  width="600px" src="Screenshots/screenshots2.png">
-<br>
-
--> When heart disease is found
-<br>
-<br>
-<image  width="600px" src="Screenshots/screenshots3.png">
-<br>
 
   <h2>Features</h2>
 
